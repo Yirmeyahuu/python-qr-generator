@@ -3,8 +3,8 @@ from qrcode.image.styledpil import StyledPilImage
 from qrcode.image.styles.moduledrawers.pil import RoundedModuleDrawer
 from PIL import Image
 
-# Your Google Drive link
-drive_url = "https://devinnovate.vercel.app/"
+# Your link
+drive_url = "https://your-link-here.com/"
 
 # Create QRCode object
 qr = qrcode.QRCode(
